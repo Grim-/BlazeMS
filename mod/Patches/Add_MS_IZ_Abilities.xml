@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/TaranMagicFramework.AbilityDef[defName="WN_Tsukuyomi"]</xpath>
+    <value>
+      <abilityTrees>
+        <li>WN_MangekyouIZ</li>
+      </abilityTrees>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/TaranMagicFramework.AbilityDef[defName="WN_Transfer"]</xpath>
+    <value>
+      <abilityTrees>
+        <li>WN_MangekyouIZ</li>
+      </abilityTrees>
+    </value>
+  </Operation>
+</Patch>

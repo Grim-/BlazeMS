@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <TaranMagicFramework.AbilityTreeDef ParentName="WN_MangekyouTreeBase" Name="WN_MangekyouIZAbilityBase">
+    <defName>WN_MangekyouIZ</defName>
+    <iconTexPath>UI/Icons/Sharingan/Izuna</iconTexPath>
+  </TaranMagicFramework.AbilityTreeDef>
+
+  <TaranMagicFramework.AbilityDef ParentName="WN_AbilityBase" Name="WN_MangekyouIAbilityBase" Abstract="True">
+		<abilityTrees>
+			<li>WN_MangekyouIZ</li>
+		</abilityTrees>
+	</TaranMagicFramework.AbilityDef>
+</Defs>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <GeneDef ParentName="WN_MangekyouBase">
+    <defName>WN_MangekyouIN</defName>
+    <label>MangekyouIN</label>
+    <iconPath>UI/Icons/Sharingan/MangekyouIN</iconPath>
+  </GeneDef>
+
+  <GeneDef ParentName="WN_MangekyouBase">
+    <defName>WN_MangekyouRS</defName>
+    <label>MangekyouRS</label>
+    <iconPath>UI/Icons/Sharingan/RinneSharingan</iconPath>
+  </GeneDef>
+
+  <GeneDef ParentName="WN_MangekyouBase">
+    <defName>WN_MangekyouIZ</defName>
+    <label>MangekyouIZ</label>
+    <iconPath>UI/Icons/Sharingan/Izuna</iconPath>
+    <modExtensions>
+      <li Class="TaranMagicFramework.AbilityExtension">
+        <abilityTrees>
+          <li>WN_MangekyouIZ</li>
+        </abilityTrees>
+      </li>
+    </modExtensions>
+  </GeneDef>
+
+  <GeneDef ParentName="WN_MangekyouBase">
+    <defName>WN_MangekyouBA</defName>
+    <label>MangekyouBA</label>
+    <iconPath>UI/Icons/Sharingan/Baru</iconPath>
+  </GeneDef>
+
+  <GeneDef ParentName="WN_MangekyouBase">
+    <defName>WN_MangekyouNA</defName>
+    <label>MangekyouNA</label>
+    <iconPath>UI/Icons/Sharingan/Naka</iconPath>
+  </GeneDef>
+
+  <GeneDef ParentName="WN_MangekyouBase">
+    <defName>WN_MangekyouNI</defName>
+    <label>MangekyouNI</label>
+    <iconPath>UI/Icons/Sharingan/Naori</iconPath>
+  </GeneDef>
+
+  <GeneDef ParentName="WN_MangekyouBase">
+    <defName>WN_MangekyouRA</defName>
+    <label>MangekyouRA</label>
+    <iconPath>UI/Icons/Sharingan/Rai</iconPath>
+  </GeneDef>
+
+  <GeneDef ParentName="WN_MangekyouBase">
+    <defName>WN_MangekyouSN</defName>
+    <label>MangekyouSN</label>
+    <iconPath>UI/Icons/Sharingan/Shin</iconPath>
+  </GeneDef>
+</Defs>
