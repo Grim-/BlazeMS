@@ -10,6 +10,7 @@
 	<loadAfter>
 		<li>brrainz.harmony</li>
 		<li>Ludeon.RimWorld.Biotech</li>
+		<li>LifeisGame.WorldOfNaruto</li>
 	</loadAfter>
 	<modDependencies>
 	</modDependencies>
