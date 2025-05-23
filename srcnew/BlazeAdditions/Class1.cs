@@ -23,18 +23,4 @@ namespace BlazeAdditions
     {
         public static AbilityTreeDef WN_MangekyouIZ;
     }
-
-    //public class BlazeNarutoAdditionsMod : Mod
-    //{
-    //    public BlazeNarutoAdditionsMod(ModContentPack content) : base(content)
-    //    {
-    //        WN_Utils.mangekyouTrees.Add(BlazeDefOf.WN_MangekyouIZ);
-    //    }
-    //}
-
-    //[DefOf]
-    //public static class BlazeDefOf
-    //{
-    //    public static AbilityTreeDef WN_MangekyouIZ;
-    //}
 }
